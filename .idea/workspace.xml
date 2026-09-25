@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0d606fd9-b739-47b7-bdd3-89eb2a292f39" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/404.html" beforeDir="false" afterPath="$PROJECT_DIR$/404.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/404/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/404/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/__next.__PAGE__.txt" beforeDir="false" afterPath="$PROJECT_DIR$/__next.__PAGE__.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/__next._full.txt" beforeDir="false" afterPath="$PROJECT_DIR$/__next._full.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/__next._tree.txt" beforeDir="false" afterPath="$PROJECT_DIR$/__next._tree.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_next/static/9891nLjrCUGy5CfwsOjPE/_buildManifest.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_next/static/9891nLjrCUGy5CfwsOjPE/_clientMiddlewareManifest.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_next/static/9891nLjrCUGy5CfwsOjPE/_ssgManifest.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_next/static/chunks/2lmvu3lj8h7il.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_next/static/chunks/3d8rrfb7x28t2.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_next/static/chunks/turbopack-0zizmglcsn885.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_not-found/__next._full.txt" beforeDir="false" afterPath="$PROJECT_DIR$/_not-found/__next._full.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_not-found/__next._not-found.__PAGE__.txt" beforeDir="false" afterPath="$PROJECT_DIR$/_not-found/__next._not-found.__PAGE__.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_not-found/__next._tree.txt" beforeDir="false" afterPath="$PROJECT_DIR$/_not-found/__next._tree.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_not-found/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_not-found/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_not-found/index.txt" beforeDir="false" afterPath="$PROJECT_DIR$/_not-found/index.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.txt" beforeDir="false" afterPath="$PROJECT_DIR$/index.txt" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="McpProjectServerCommands">
+    <commands />
+    <urls />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 4,
+  "fromUser": false
+}]]></component>
+  <component name="ProjectId" id="3JpNNFpHpl9lgMRqKoqzgF4gbV7" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.MCP Project settings loaded": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "/Users/BBMLDP-40190/DP-Project/frontend/profile",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-4abd2a77f808-JavaScript-WS-262.10968.77" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0d606fd9-b739-47b7-bdd3-89eb2a292f39" name="Changes" comment="" />
+      <created>1790354007415</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1790354007415</updated>
+      <workItem from="1790354008431" duration="691000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
